@@ -1,0 +1,54 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+
+    <dimen name="text_20_size">20sp</dimen>
+    <dimen name="text_18_size">18sp</dimen>
+    <dimen name="text_16_size">16sp</dimen>
+    <dimen name="text_14_size">14sp</dimen>
+    <dimen name="text_12_size">12sp</dimen>
+    <dimen name="text_10_size">10sp</dimen>
+
+
+    <dimen name="distance_2">2dp</dimen>
+    <dimen name="distance_4">4dp</dimen>
+    <dimen name="distance_6">6dp</dimen>
+    <dimen name="distance_8">8dp</dimen>
+    <dimen name="distance_10">10dp</dimen>
+    <dimen name="distance_12">12dp</dimen>
+    <dimen name="distance_14">14dp</dimen>
+    <dimen name="distance_15">15dp</dimen>
+    <dimen name="distance_16">16dp</dimen>
+    <dimen name="distance_18">18dp</dimen>
+
+    <dimen name="distance_20">20dp</dimen>
+    <dimen name="distance_22">22dp</dimen>
+    <dimen name="distance_30">30dp</dimen>
+    <dimen name="distance_24">24dp</dimen>
+    <dimen name="distance_26">26dp</dimen>
+    <dimen name="distance_28">28dp</dimen>
+    <dimen name="distance_32">32dp</dimen>
+    <dimen name="distance_36">36dp</dimen>
+    <dimen name="distance_40">40dp</dimen>
+    <dimen name="distance_50">50dp</dimen>
+    <dimen name="distance_60">60dp</dimen>
+    <dimen name="distance_70">70dp</dimen>
+    <dimen name="distance_80">80dp</dimen>
+
+
+    <dimen name="loan_tab_padding_15">15dp</dimen>
+    <dimen name="secondhand_big_box">70dp</dimen>
+
+    <dimen name="item_height">60dp</dimen>
+
+    <!--标题栏高度-->
+    <dimen name="ActionBarHeight">50dp</dimen>
+    <!--地图高度-->
+    <dimen name="mapHeight">200dp</dimen>
+
+
+
+</resources>

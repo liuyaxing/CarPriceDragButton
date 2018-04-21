@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DragButton</string>
+
+
+    <string name="brand">品牌</string>
+    <string name="price">价格</string>
+
+</resources>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.lyx.dragbutton.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/lin_select"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+
+        >
+
+        <TextView
+            android:id="@+id/tv_city"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:drawablePadding="@dimen/distance_6"
+             android:gravity="center_horizontal"
+            android:padding="@dimen/distance_12"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_14_size"
+
+            tools:text="杭州"
+
+            />
+
+
+        <TextView
+            android:id="@+id/tv_brand"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/distance_10"
+            android:drawablePadding="@dimen/distance_6"
+            android:drawableRight="@mipmap/icon_pull_down_btn"
+            android:padding="@dimen/distance_12"
+            android:text="@string/brand"
+            android:textColor="@color/black"
+            android:maxLength="5"
+            android:ellipsize="end"
+            android:textSize="@dimen/text_14_size"
+            android:maxLines="1"
+
+            />
+
+        <TextView
+            android:id="@+id/tv_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/distance_10"
+            android:drawablePadding="@dimen/distance_6"
+            android:drawableRight="@mipmap/icon_pull_down_btn"
+            android:padding="@dimen/distance_12"
+            android:text="@string/price"
+
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_14_size"
+
+
+            />
+
+
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
